@@ -28,7 +28,7 @@
         "honed/action": "^0.32.0",
         "honed/chart": "^0.2.0",
         "honed/command": "^0.6.0",
-        "honed/data": "^0.6.0",
+        "honed/data": "^0.7.1",
         "honed/form": "^0.5.0",
         "honed/infolist": "^0.16.1",
         "honed/refine": "^0.32.0",
